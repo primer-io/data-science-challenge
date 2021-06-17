@@ -27,9 +27,9 @@ The challenge has two parts:
 ### EDA
 Perform exploratory data analysis to better understand the data and summarise your findings. Please use well-labeled charts and tables during the analysis. To get you started, these are some questions that could be interesting
 
-- What is the total authorization rate?
+- What is the overall authorization rate?
 
-- Which Processor has the highest authorization rate?
+- Which processor has the highest authorization rate?
 
 - What is the distribution of payment amounts?
 
@@ -42,7 +42,7 @@ Perform exploratory data analysis to better understand the data and summarise yo
 
 ### Model Building
 
-Build Bayesian Logistic Regression model that predicts if a payment will be authorized. Once complete, summarise your model, the approach (e.g. how did you select your priors), the results, and how well it performed. 
+Build a bayesian logistic regression model that predicts if a payment will be authorized. Once complete, summarise your model, the approach (e.g. how did you select your priors), the results, and how well it performed. 
 
 Please complete the tasks using Python or R and you are free to use any and all third party libraries to help you. 
 
