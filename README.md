@@ -20,7 +20,9 @@ authorized: Integer (0/1) indicating if the payment was authorized or not
 ```
 
 # The Challenge
-The challenge has two parts 1) Exploratory analysis and 2) model building. 
+The challenge has two parts:
+1. Exploratory Data Analysis
+2. Bayesian modeling
 
 ### EDA
 Perform exploratory data analysis to better understand the data and summarise your findings. Please use well-labeled charts and tables during the analysis. To get you started, these are some questions that could be interesting
