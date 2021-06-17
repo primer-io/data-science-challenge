@@ -3,7 +3,7 @@
 One of the objectives of Team Data at Primer is to help improve authorisation rates for our merchants - the Authorization Rate is defined as:
 
 ```
-# of approved authorized payments / # payments attempted
+# of authorized payments / # payments attempted
 ```
 
 As part of the challenge, I have generated a fake dataset of payments that we will be using. The dataset can be found in the repo under `data.csv` and it is described below:
