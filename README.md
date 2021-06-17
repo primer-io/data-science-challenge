@@ -25,7 +25,7 @@ The challenge has two parts:
 2. Bayesian modeling
 
 ### EDA
-Perform exploratory data analysis to better understand the data and summarise your findings. Please use well-labeled charts and tables during the analysis. To get you started, these are some questions that could be interesting
+Perform exploratory data analysis to better understand the data and summarise your findings. Please use well-labeled charts and tables during the analysis. To get you started, these are some questions that could be interesting:
 
 - What is the overall authorization rate?
 
