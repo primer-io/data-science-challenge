@@ -42,7 +42,7 @@ Perform exploratory data analysis to better understand the data and summarise yo
 
 ### Model Building
 
-Build a bayesian logistic regression model that predicts if a payment will be authorized. Once complete, summarise your model, the approach (e.g. how did you select your priors), the results, and how well it performed. 
+Build a Bayesian logistic regression model that predicts if a payment will be authorized. Once complete, summarise your model, the approach (e.g. how did you select your priors), the results, and how well it performed. 
 
 Please complete the tasks using Python or R and you are free to use any and all third party libraries to help you. 
 
