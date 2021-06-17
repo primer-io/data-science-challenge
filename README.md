@@ -16,7 +16,7 @@ payment_instrument_type: String - one of Paypal, GoCardless, Klarna, PaymentCard
 card_brand: String representing the brand of the card used for the payment 
 issuing_country: String representing the country where the card was issued
 processor: String representing the entity responsible for processing the payment
-authorized: Boolean indicating if the payment was authorized or not
+authorized: Integer (0/1) indicating if the payment was authorized or not
 ```
 
 # The Challenge
