@@ -1,6 +1,6 @@
 # Data Science Challenge
 
-One of the objectives of Team Data at Primer is to help improve authorisation rates for our merchants - the Authorization Rate is defined as:
+One of the objectives of Team Data at Primer is to help improve authorization rates for our merchants - the Authorization Rate is defined as:
 
 ```
 # of authorized payments / # payments attempted
