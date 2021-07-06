@@ -15,7 +15,6 @@ currency: String representing the original currency
 payment_instrument_type: String - one of Paypal, GoCardless, Klarna, PaymentCard, or Apple Pay
 card_brand: String representing the brand of the card used for the payment 
 issuing_country: String representing the country where the card was issued
-processor: String representing the entity responsible for processing the payment
 authorized: Integer (0/1) indicating if the payment was authorized or not
 ```
 
@@ -29,7 +28,7 @@ Perform exploratory data analysis to better understand the data and summarise yo
 
 - What is the overall authorization rate?
 
-- Which processor has the highest authorization rate?
+- Which payment_instrument_type has the highest authorization rate?
 
 - What is the distribution of payment amounts?
 
